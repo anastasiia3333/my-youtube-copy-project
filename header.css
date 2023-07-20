@@ -55,6 +55,8 @@
 }
 .search-button {
     border: 1px solid rgb(200, 200, 200);
+    height:39px;
+    width: 60px;
 }
 .search-button,
 .voice-search-button,
